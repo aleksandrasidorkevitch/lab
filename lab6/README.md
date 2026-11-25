@@ -14,3 +14,6 @@
 ```bash
 pip install -r requirements.txt
 pytest -q
+
+## Ссылка на результат
+Опубликованная страница (GitHub Pages): https://aleksandrasidorkevitch.github.io/lab/
